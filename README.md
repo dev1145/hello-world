@@ -1,8 +1,8 @@
 # hello-world
 o This is a basic template test.
- - 1 basic instruction
- - 2 Installation
- - 3 Using example
+ - basic instruction
+ - Installation
+ - Using example
 
 
 ## Installation
