@@ -1,0 +1,5 @@
+build/*
+dist/*
+timeloop.egg-info/*
+*.pyc
+*.mypy*
