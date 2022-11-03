@@ -1,5 +1,5 @@
 # hello-world
-o This is a basic template test.
+o This is a basic template.
  - basic instruction
  - Installation
  - Using example
