@@ -5,8 +5,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
- name='timeloop',
- version='1.1',
+ name='hello-world',
+ version='1.0',
  packages=['hello-world'],
  license = 'MIT',
  description = 'hello world.',
